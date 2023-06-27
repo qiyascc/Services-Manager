@@ -1,0 +1,44 @@
+{
+  "services": [
+    {
+      "serviceName": "Database Management",
+      "serviceStatus": true
+    },
+    {
+      "serviceName": "API Development",
+      "serviceStatus": true
+    },
+    {
+      "serviceName": "Authentication Service",
+      "serviceStatus": true
+    },
+    {
+      "serviceName": "Server Monitoring",
+      "serviceStatus": false
+    },
+    {
+      "serviceName": "Load Balancing",
+      "serviceStatus": true
+    },
+    {
+      "serviceName": "Cache Management",
+      "serviceStatus": false
+    },
+    {
+      "serviceName": "Data Migration",
+      "serviceStatus": true
+    },
+    {
+      "serviceName": "Error Logging",
+      "serviceStatus": true
+    },
+    {
+      "serviceName": "Security Audits",
+      "serviceStatus": false
+    },
+    {
+      "serviceName": "Backup and Recovery",
+      "serviceStatus": true
+    }
+  ]
+}
