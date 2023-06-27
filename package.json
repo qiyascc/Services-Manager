@@ -1,0 +1,23 @@
+{
+  "name": "services-checker-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for checking the status of developer services",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "services",
+    "checker",
+    "backend",
+    "developer"
+  ],
+  "author": "qiyascc",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "node-fetch": "^3.1.0"
+  }
+}
